@@ -1,27 +1,6 @@
-# Spa
+# Héroes-app
+Plataforma web y mobile que permite ver la descripción de algunos héroes de Marvel y DC.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
+![heroes](https://user-images.githubusercontent.com/38013094/49462387-b06f1f00-f7d4-11e8-894d-dc1048c5a8d7.jpeg)
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+![arana](https://user-images.githubusercontent.com/38013094/49462394-b36a0f80-f7d4-11e8-9fd6-bebbdb30dc52.jpeg)
